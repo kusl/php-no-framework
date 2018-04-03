@@ -1,0 +1,17 @@
+{
+    "name": "kus/php-no-framework",
+    "description": "This is a learning project. See https://archive.fo/PdSOI for details.",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "kushal",
+            "email": "kushaldeveloper@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
