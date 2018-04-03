@@ -5,6 +5,11 @@
     "require-dev": {
         "phpunit/phpunit": "^7.0"
     },
+    "autoload": {
+        "psr-4": {
+            "ExampleApp\\": "src/"
+        }
+    },
     "license": "GPLv3",
     "authors": [
         {
